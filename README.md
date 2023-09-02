@@ -25,7 +25,7 @@ Olá, seja bem-vindo ao universo da Kira.Company! Aqui, nosso site é muito mais
 Para configurar e executar este projeto localmente, siga as etapas abaixo:
 
 1. Clone o repositório: `git clone https://github.com/Null-Kc/Kira.Company.git`
-2. Navegue até o diretório do projeto: `cd Portifolio`
+2. Navegue até o diretório do projeto: `cd Kira.Company`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor local: `npm run dev`
 
