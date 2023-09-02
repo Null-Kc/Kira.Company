@@ -24,7 +24,7 @@ Olá, seja bem-vindo ao universo da Kira.Company! Aqui, nosso site é muito mais
 
 Para configurar e executar este projeto localmente, siga as etapas abaixo:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/projeto-xyz.git`
+1. Clone o repositório: `git clone [https://github.com/Null-Kc/Kira.Company.git](https://github.com/Null-Kc/Kira.Company.git)`
 2. Navegue até o diretório do projeto: `cd Portifolio`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor local: `npm run dev`
@@ -39,7 +39,7 @@ Animacoes com a Biblioteca Framer Motion.
 
 Envio de Email atraves da biblioteca Email.JS, para isso e preciso mudar as variaveis, que se encontram no `/src/components/ContactForm` 
 
-.sendForm( "service_id", "template_id", e.target, "public Key")
+.sendForm( "your_service_id", "your_template_id", e.target, "your_public_key")
 
 essas podem ser conseguidas no site do [Email.js](https://www.emailjs.com/).
 
