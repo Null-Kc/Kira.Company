@@ -16,11 +16,11 @@ const ListadeProjetos = [
     linkGithub: 'https://github.com/Null-Kc/ras_Site' ,
     status: 'Offline 🔴' },
   { id: '3',
-    title: 'Match MT',
-    subtitle: 'Landing Page',
-    description: 'O site de negócios "Match MT" é a plataforma de referência para conexões em relações públicas online. Facilitamos a união de profissionais de RP e empresas que buscam construir e fortalecer sua presença digital. Encontre especialistas em RP, colaborações estratégicas e recursos para otimizar sua estratégia de comunicação online.',
-    linkProjeto: 'https://www.match.mt/',
-    linkGithub: 'https://github.com/Null-Kc' ,
+    title: 'FaxinaExpress',
+    subtitle: 'Site de agendamento',
+    description: 'FaxinaExpress: Agende facilmente serviços de limpeza, escolha datas convenientes e tenha sua casa impecável em minutos. Simplificamos a limpeza para você!',
+    linkProjeto: 'https://faxina.vercel.app/',
+    linkGithub: 'https://github.com/Null-Kc/FaxinaExpress' ,
     status: 'Online 🟢' },
 ];
 
