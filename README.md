@@ -1,4 +1,7 @@
 # Kira.Company
+![GitHub repo size](https://img.shields.io/github/repo-size/Null-Kc/Kira.Company?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Null-Kc/Kira.Company?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Null-Kc/Kira.Company?style=for-the-badge)
 
 Olá, seja bem-vindo ao universo da Kira.Company! Aqui, nosso site é muito mais do que apenas uma plataforma; ele é a porta de entrada para uma jornada simplificada e eficiente no vasto mundo das ferramentas de software. Como apaixonados por desenvolvimento, nossa missão é clara: tornar a vida de nossos clientes mais fácil. Em nossa plataforma, você pode entrar em contato conosco para dar vida aos seus projetos de software. Estamos aqui para transformar suas ideias em realidade e tornar o processo tão descomplicado quanto possível. Na Kira.Company, a simplicidade e a eficiência são nossas marcas registradas. Estamos ansiosos para trabalhar com você e tornar seus projetos de software uma realidade!
 
