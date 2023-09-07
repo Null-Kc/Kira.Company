@@ -22,7 +22,7 @@ function SocialMedia() {
         </a>
       </li>
       <li className='w-[20%]'>
-        <a href="https://github.com/Null-Kc" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/PedroLucas-Developer" target="_blank" rel="noopener noreferrer">
           <Image src={IconeGithub} alt="Ícone do GitHub" />
         </a>
       </li>
