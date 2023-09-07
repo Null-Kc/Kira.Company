@@ -12,22 +12,22 @@ function SocialMedia() {
   return (
     <ul className='flex flex-row flex-wrap justify-center w-[320px]'>
       <li className='w-[20%]'>
+        <a href="https://www.youtube.com/@PedroDevelop" target="_blank" rel="noopener noreferrer">
+          <Image src={IconeYouTube} alt="Ícone do YouTube" />
+        </a>
+      </li>
+      <li className='w-[20%]'>
+        <a href="https://www.instagram.com/pedrolucas.developer/" target="_blank" rel="noopener noreferrer">
+          <Image src={IconeInstagram} alt="Ícone do Instagram" />
+        </a>
+      </li>
+      <li className='w-[20%]'>
         <a href="https://github.com/Null-Kc" target="_blank" rel="noopener noreferrer">
           <Image src={IconeGithub} alt="Ícone do GitHub" />
         </a>
       </li>
       <li className='w-[20%]'>
-        <a href="https://www.youtube.com/@null-kc" target="_blank" rel="noopener noreferrer">
-          <Image src={IconeYouTube} alt="Ícone do YouTube" />
-        </a>
-      </li>
-      <li className='w-[20%]'>
-        <a href="https://www.instagram.com/kurama.dev_/" target="_blank" rel="noopener noreferrer">
-          <Image src={IconeInstagram} alt="Ícone do Instagram" />
-        </a>
-      </li>
-      <li className='w-[20%]'>
-        <a href="https://twitter.com/Null_Kc" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/PedroDevelop" target="_blank" rel="noopener noreferrer">
           <Image src={IconeTwitter} alt="Ícone do Twitter" />
         </a>
       </li>
