@@ -12,7 +12,7 @@ export default function ContactForm() {
 
     if (formData.name.trim() && formData.email.trim() && formData.phone.trim()) {
       emailjs
-        .sendForm( "service_bbdlxbl", "template_vw5w8or", e.target, "7N1Ssz7fskGdjIECF")
+        .sendForm( "", "", e.target, "")
         .then(
           (result) => {
             setIsActiveEnviado(!isActiveEnviado);
