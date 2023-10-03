@@ -10,7 +10,7 @@ import IconeInstagram from '../../public/imagens/instagram.png';
 // O componente SocialMedia rederiza os 5 icones das redes sociais
 function SocialMedia() {
   return (
-    <ul className='flex flex-row flex-wrap justify-center w-[320px]'>
+    <ul className='flex flex-row flex-wrap justify-center w-[300px]'>
       <li className='w-[20%]'>
         <a href="https://www.youtube.com/@PedroDevelop" target="_blank" rel="noopener noreferrer">
           <Image src={IconeYouTube} alt="Ícone do YouTube" />

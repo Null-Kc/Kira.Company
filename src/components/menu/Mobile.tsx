@@ -27,7 +27,7 @@ const Mobile = () => {
           <motion.div initial={{ opacity: 0, x: 100 }} animate={{ opacity: 1, x: 25 }} exit={{ opacity: 0, x: 90 }} transition={{ duration: 0.5 }} style={{ zIndex: 0 }} className="absolute top-[6rem] shadow-[0_0_30px_0_rgba(255,0,0,0.3)] right-0 w-10/12 h-[580px] bg-white p-4 rounded-l-3xl dark:bg-[#391515] dark:shadow-[0_0_30px_0px_rgba(110,110,110,255)] max-[500px]:w-[110%] max-[600px]:h-[90vh]">
             <NavigationMobile />
             <div className='pt-10 flex justify-center'>
-              <div className='flex flex-col justify-center w-full'>
+              <div className='flex flex-col justify-center w-full max-w-[300px]'>
                 <h2 className='text-center text-[#000000] font-bold text-[15px] dark:text-[#ffffff] pb-5'>Redes sociais</h2>
                 <SocialMedia />
               </div>
